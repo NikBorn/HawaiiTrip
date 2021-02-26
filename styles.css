@@ -73,7 +73,7 @@ img {
   left: 40px;
 }
 
-.honolulu-text {
+.main-section-text {
   position: absolute;
   top: 130px;
   right: 40px;
@@ -100,4 +100,10 @@ img {
   width: 371px;
   height: 345px;
   object-fit: cover;
+}
+
+.island-icon {
+  border: none;
+  margin: 120px auto;
+  display: block;
 }

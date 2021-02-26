@@ -85,6 +85,10 @@ img {
   margin-top: 20px;
 }
 
+.float-image {
+  float: right;
+}
+
 .surfer-image {
   width: 371px;
   height: 345px;
@@ -92,6 +96,8 @@ img {
   object-position: 86% 0%;
 }
 
-.float-image {
-  float: right;
+.sushi-image {
+  width: 371px;
+  height: 345px;
+  object-fit: cover;
 }

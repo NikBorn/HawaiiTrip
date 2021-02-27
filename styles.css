@@ -32,6 +32,10 @@ nav {
   z-index: 100;
 }
 
+.nav-text {
+  display: none;
+}
+
 ul {
   padding: 10px 40px;
   font-weight: 700;
@@ -106,4 +110,14 @@ img {
   border: none;
   margin: 120px auto;
   display: block;
+}
+
+footer {
+  height: 120px;
+  width: 1024px;
+  font-size: 19px;
+  background-color: #ed2590;
+  color: #fff;
+  text-align: right;
+  padding: 40px 20px 0 0px;
 }
